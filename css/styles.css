@@ -171,13 +171,13 @@ a {
 .hero {
   color: #fff;
   text-align: center;
-  background-color: #2f303a;
+  /* background-color: #2f303a; */
 }
 
 .hero-image {
   max-width: 1600px;
   padding: 200px 0;
-  background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url('images/hero-image.jpg');
+  background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url('../images/hero-image.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
